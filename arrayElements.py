@@ -12,3 +12,6 @@ def groupArrayElements(arrayElements,n):
            return "'arrayElements' should not be a empty list"
         else:
             return str(e)
+        
+# finalList=groupArrayElements([1,2,3,4,5],2)        
+# print(finalList)        
